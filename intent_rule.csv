@@ -1,0 +1,7 @@
+Intent,Rule
+greeting,^(hello|hi|hey|good morning|good afternoon|good evening).*$
+check_availability,^.*(when|what).*available.*$
+schedule_appointment,.*(schedule|book|set up|make).*appointment.*(teacher|meeting|date|time).*$
+thank_you,^(thank you|thanks|appreciate|grateful).*$
+ask_contact_info,^(how|what|may|could|can|please).*contact.*(you|reach|method|information|details).*$
+farewell,^(bye|goodbye|see you|take care|farewell|have a nice day|exit|quit).*$

@@ -1,0 +1,152 @@
+Intent,Question,Response
+greeting, Hello! , Hi there! How can I assist you today?
+greeting, Hi! , Hello! How can I help you?
+greeting, Hey , Hey there! How can I be of service?
+greeting, Good morning , Good morning! What can I do for you?
+greeting, Good afternoon , Good afternoon! How may I assist you?
+greeting, Good evening , Good evening! How can I help you today?
+greeting," Hey, how's it going? ", Hey! I'm here to help. What can I do for you?
+greeting," Hello, any updates today? "," Hello! Yes, I'm here to provide updates. What do you need?"
+greeting," Hi there, how's your day? ", Hi there! My day is going well. How can I assist you?
+greeting," Hello, what's new? ", Hello! I'm here to share the latest updates. What do you want to know?
+greeting," Hey there, how can I help you today? ", Hello! I'm here to assist. What can I do for you?
+greeting," Hi, it's nice to chat with you! ", Hi there! I'm ready to help. What do you need?
+greeting, Good day! How can I assist you? , Good day! I'm here to help. How may I assist you?
+greeting," Hello, what brings you here? ", Hello! I'm here to answer your questions. How can I assist you today?
+greeting, Greetings! How may I be of service? , Greetings! I'm here to assist. What can I help you with?
+greeting, Hiya! What can I do for you today? , Hiya! I'm here to help. How can I assist you today?
+greeting," Hey, what's on your mind? ", Hey there! I'm ready to assist you. What can I do for you?
+greeting," Hello there, how can I support you? ", Hello! I'm here to support you. What do you need help with?
+greeting," Hi, hope you're having a great day! ", Hi there! I'm here to help make your day better. How can I assist you?
+greeting, Hello! Let's tackle your questions. , Hello! I'm ready to tackle your questions. What do you want to know?
+greeting," Hey, what can I assist you with? ", Hey there! I'm here to assist you. How can I help?
+greeting," Hi, I'm here to make things easier for you! ", Hi there! I'm here to make things easier. What do you need assistance with?
+greeting," Hello, how's your day going so far? ", Hello! I hope your day is going well. How can I assist you today?
+greeting," Hi there, ready to get started? ", Hi there! I'm ready to assist. How can I make your day better?
+greeting," Hey, hope you're ready for some assistance! ", Hey there! I'm ready to help. What can I assist you with?
+greeting," Hello, I'm here to lend a hand. ", Hello! I'm here to assist. How can I be of service?
+greeting," Hi, how can I make your day better? ", Hi! I'm here to help improve your day. What do you need?
+greeting," Hey there, let's tackle your tasks together! ", Hello! I'm here to help you tackle tasks. What can I do for you?
+greeting," Hello, ready to dive into our conversation? ", Hello! Let's dive into our conversation. How can I assist you?
+greeting, Hiya! How can I make your day smoother? , Hiya! I'm here to make your day smoother. How can I assist you?
+check_availability, Is the teacher available on Wednesday? , Let me check. Please wait a moment.
+check_availability, Can you tell me if the teacher is free tomorrow? , Of course. Let me check the availability for tomorrow.
+check_availability, What are the teacher's available times for Monday? , I'll look up the available times for Monday.
+check_availability, When can I schedule a meeting with the teacher? , Let me find available slots for you to meet with the teacher.
+check_availability, Is the teacher's calendar open for appointments next week? , I'll check the teacher's calendar for next week's availability.
+check_availability, Are there any available slots for a meeting this afternoon? , Let me see if there are any available slots for this afternoon.
+check_availability, What times is the teacher free on Friday? , I'll find the teacher's free times for Friday.
+check_availability, Can I schedule an appointment for next Thursday? , Let's check if next Thursday has any available slots.
+check_availability, What days of the week is the teacher generally available? , I'll provide you with the teacher's usual availability.
+check_availability, Is it possible to meet with the teacher on weekends? , I'll find out if the teacher's available on weekends.
+check_availability, Could you check if the teacher has any free time on Tuesday? , Let me check Tuesday's availability for you.
+check_availability, When is the teacher typically available during the day? , I'll give you an overview of the teacher's usual availability.
+check_availability, Can you help me find a suitable time to meet with the teacher? , Certainly! I'll find available times for you.
+check_availability, Is there a way to see the teacher's availability online? , I'll guide you through how to check the teacher's availability.
+check_availability, Could you let me know when the teacher has openings this week? , I'll provide you with the teacher's available times this week.
+check_availability, Can I book a meeting with the teacher for Monday morning? , Let's see if there are any available slots on Monday morning.
+check_availability, How can I check if the teacher is free for a meeting? , I'll show you how to check the teacher's availability for a meeting.
+check_availability, Are there any available times for a meeting tomorrow morning? , I'll find out if there are any openings for tomorrow morning.
+check_availability, Can you help me find a time to meet with the teacher next month? , I'll assist you in finding an available time next month.
+check_availability, What times does the teacher have open for appointments? , I'll provide you with the teacher's available appointment times.
+check_availability, Could you tell me when the teacher is free in the afternoons? , I'll give you the teacher's available times in the afternoons.
+check_availability, Is the teacher available for meetings on Thursdays? , I'll check the teacher's availability on Thursdays.
+check_availability, Can I book a slot to meet with the teacher on Tuesday afternoon? , Let's see if there are any available slots on Tuesday afternoon.
+check_availability, What's the process for checking the teacher's schedule? , I'll explain how you can easily check the teacher's schedule.
+check_availability, Can I schedule an appointment with the teacher for next week? , Let me check if there are openings for next week's appointments.
+check_availability, Is there a way to see the teacher's availability for the whole month? , I'll show you how to view the teacher's availability for the entire month.
+check_availability, Can you let me know when the teacher has time available in the mornings? , I'll give you an overview of the teacher's available morning times.
+check_availability, Can I schedule a meeting with the teacher for the upcoming Monday? , Let's check if there are any available slots for the upcoming Monday.
+check_availability, How can I find out when the teacher is free to meet? , I'll explain how you can easily find out the teacher's available meeting times.
+check_availability, What are the teacher's available times for Wednesday? , I'll look up the available times for Wednesday.
+check_availability, Can I book a slot to meet with the teacher on Saturday morning? , Let's see if there are any available slots on Saturday morning.
+schedule_appointment, I'd like to schedule an appointment for next Monday. ," Sure, let me find available slots for you."
+schedule_appointment, Can you help me book a meeting with the teacher on Friday? , Of course! I'll assist you in scheduling the appointment.
+schedule_appointment, I want to set up a meeting with the teacher. , Great! I'll help you schedule the meeting. When would you like it to be?
+schedule_appointment, How can I schedule an appointment with the teacher? , I can assist you with that. What date and time are you looking for?
+schedule_appointment, Can you guide me through the process of booking an appointment? , Certainly! Let's work together to schedule an appointment.
+schedule_appointment, What's the procedure for setting up a meeting with the teacher? , I'll walk you through the steps of scheduling an appointment.
+schedule_appointment, Please help me schedule a meeting with the teacher for next Wednesday. , Not a problem. I'll check the availability for next Wednesday.
+schedule_appointment, I'm interested in booking a meeting with the teacher. , Sure thing! Let's find a suitable time for your meeting.
+schedule_appointment, How do I go about scheduling an appointment with the teacher? , I'll explain how you can easily schedule an appointment with the teacher.
+schedule_appointment, Can you schedule a meeting for me to meet with the teacher? , Absolutely! Just let me know your preferred date and time.
+schedule_appointment, I need to set up an appointment with the teacher next week. , Got it! I'll find available slots for your appointment next week.
+schedule_appointment, What's the process for scheduling a meeting with the teacher? , I'll guide you through the process step by step.
+schedule_appointment, Please assist me in booking an appointment with the teacher. , Certainly! Let's find a suitable time for your appointment.
+schedule_appointment, How do I arrange a meeting with the teacher? , I'll help you schedule the meeting. When would you like it to be?
+schedule_appointment, Can you help me set up a meeting with the teacher on Monday? , Of course! I'll check the availability for Monday.
+schedule_appointment, I'd like to schedule a meeting with the teacher. ," Sure, I can assist you with that. What's your preferred date and time?"
+schedule_appointment, How can I schedule an appointment to meet with the teacher? , I'll assist you in scheduling the appointment. When are you available?
+schedule_appointment, Please help me schedule an appointment for a meeting. , No problem! Let's find a suitable time for your meeting.
+schedule_appointment, What's the best way to book an appointment with the teacher? , I'll explain the options you have for scheduling an appointment.
+schedule_appointment, Can you schedule a meeting with the teacher for Tuesday afternoon? , I'll check if there are any available slots for Tuesday afternoon.
+schedule_appointment, I want to book an appointment to meet with the teacher. , Absolutely! Let's find a time that works for both of you.
+schedule_appointment, How do I go about setting up a meeting with the teacher? , I'll guide you through the process of scheduling a meeting.
+schedule_appointment, Please assist me in scheduling a meeting with the teacher. ," Sure, I'm here to help. When would you like to schedule the meeting?"
+schedule_appointment, Can you help me book an appointment with the teacher for next month? , Of course! Let me find available slots for next month.
+schedule_appointment, I need to schedule a meeting with the teacher. , Not a problem! Let's find a suitable time for your meeting.
+schedule_appointment, How can I set up a meeting with the teacher? , I'll assist you in scheduling the meeting. When are you available?
+schedule_appointment, Please help me schedule an appointment with the teacher for Wednesday. , Certainly! I'll check the availability for Wednesday.
+schedule_appointment, What's the process for booking an appointment with the teacher? , I'll explain how you can easily schedule an appointment with the teacher.
+schedule_appointment, Can you assist me in setting up a meeting with the teacher? , Absolutely! Let's find a time that works for both of you.
+schedule_appointment, I'd like to schedule a meeting with the teacher for next week. ," Sure, let me find available slots for next week."
+schedule_appointment, How do I schedule an appointment to meet with the teacher? , I'll assist you in scheduling the appointment. When are you available?
+thank_you, Thank you for your help! ," You're welcome! If you need anything else, feel free to ask."
+thank_you, I appreciate your assistance. , You're welcome! Don't hesitate to reach out if you have more questions.
+thank_you, Thanks for your guidance. ," You're welcome! If you have any further inquiries, don't hesitate to ask."
+thank_you, Thank you for your support. ," You're welcome! If there's anything else you need, feel free to let me know."
+thank_you, I'm grateful for your help. ," You're welcome! If you require more assistance, feel free to reach out."
+thank_you, Thanks a lot for your advice. ," You're welcome! If you need further information, don't hesitate to ask."
+thank_you, I'm thankful for your assistance. , You're welcome! Feel free to contact me if you have more questions.
+thank_you, Thank you so much for your help! ," You're welcome! If you ever need more support, feel free to ask."
+thank_you, I'm appreciative of your guidance. ," You're welcome! If there's anything else I can assist you with, let me know."
+thank_you, Thanks a bunch for your support. , You're welcome! Don't hesitate to get in touch if you require further assistance.
+thank_you, I want to express my gratitude for your help. ," You're welcome! If you have more questions, feel free to ask anytime."
+thank_you, Thanks for being so helpful. ," You're welcome! If you need anything else, feel free to reach out to me."
+thank_you, I'm thankful for your prompt response. ," You're welcome! If there's more I can do for you, don't hesitate to ask."
+thank_you, Thanks for your quick assistance. ," You're welcome! If you require further information, feel free to ask."
+thank_you, I appreciate your time and help. ," You're welcome! If you need assistance in the future, feel free to contact me."
+thank_you, Thank you for your patience and support. ," You're welcome! If you have more questions, I'm here to help."
+thank_you, I'm grateful for your excellent service. ," You're welcome! If there's anything else I can assist you with, let me know."
+thank_you, Thanks for your kind assistance. ," You're welcome! If you need further guidance, feel free to reach out."
+thank_you, I want to thank you for your expertise. ," You're welcome! If you ever need more help, don't hesitate to ask."
+thank_you, Thanks a million for your help! ," You're welcome! If you require more assistance, feel free to ask."
+thank_you, I'm thankful for your valuable input. ," You're welcome! If there's anything else I can do for you, let me know."
+thank_you, Thanks for providing such useful information. ," You're welcome! If you need more information in the future, feel free to ask."
+thank_you, I appreciate your time and effort. ," You're welcome! If you need further assistance, don't hesitate to reach out."
+thank_you, Thank you for going above and beyond to help. ," You're welcome! If there's anything else you need, feel free to ask."
+thank_you, I'm grateful for your exceptional support. ," You're welcome! If you have more questions, feel free to ask anytime."
+thank_you, Thanks for your dedication to assisting me. ," You're welcome! If you require more support, feel free to reach out."
+thank_you, I want to express my gratitude for your assistance. ," You're welcome! If you need more help, feel free to contact me."
+thank_you, Thanks for your prompt and friendly help. ," You're welcome! If you need further information, don't hesitate to ask."
+thank_you, I appreciate your patience and understanding. ," You're welcome! If there's more I can do for you, let me know."
+thank_you, Thank you for your professionalism and expertise. ," You're welcome! If you have more questions, I'm here to help."
+thank_you, I'm thankful for your guidance and support. ," You're welcome! If you need assistance in the future, feel free to contact me."
+thank_you, Thanks for your exceptional customer service. ," You're welcome! If you need further guidance, feel free to reach out."
+ask_contact_info, Can you please provide your contact information? You can email exampleHelp@program.com. , Feel free to reach out by emailing exampleHelp@program.com with your contact details.
+ask_contact_info, What's the best way to get in touch with you? You can send your contact information to exampleHelp@program.com. ," If you could email your contact information to exampleHelp@program.com, that would be great!"
+ask_contact_info, How can we reach you? Please send your contact details to exampleHelp@program.com. ," To stay in touch, just send an email with your contact information to exampleHelp@program.com."
+ask_contact_info, May I have your contact details? Feel free to email exampleHelp@program.com with your information. ," If you could send your contact information to exampleHelp@program.com, that would be really helpful."
+ask_contact_info, What's your preferred method of contact? You can email your details to exampleHelp@program.com. ," To ensure we can reach you, please send your contact information to exampleHelp@program.com."
+ask_contact_info, Could you share your contact information with us? You can reach us by emailing exampleHelp@program.com. ," To stay connected, please email your contact details to exampleHelp@program.com."
+ask_contact_info, How can we get in touch? Just send your contact information to exampleHelp@program.com. , Feel free to email exampleHelp@program.com with your contact details so we can stay connected.
+ask_contact_info, What's the best way to contact you? Please send your contact information to exampleHelp@program.com. ," To reach you, please email your contact details to exampleHelp@program.com."
+ask_contact_info, May we have your contact details? Feel free to email exampleHelp@program.com with your information. ," For effective communication, please send your contact information to exampleHelp@program.com."
+ask_contact_info, How should we contact you? You can send your contact information to exampleHelp@program.com. ," To keep in touch, please email your contact details to exampleHelp@program.com."
+ask_contact_info, What's your contact information? Feel free to email exampleHelp@program.com with your details. ," To stay connected, please send your contact information to exampleHelp@program.com."
+ask_contact_info, Can you provide your contact details? You can reach us by emailing exampleHelp@program.com. ," To ensure effective communication, please email your contact information to exampleHelp@program.com."
+ask_contact_info, How can we reach out to you? Just send your contact information to exampleHelp@program.com. ," To stay in touch, please email exampleHelp@program.com with your contact details."
+ask_contact_info, May I have your contact information? You can email your details to exampleHelp@program.com. ," To communicate effectively, please send your contact information to exampleHelp@program.com."
+ask_contact_info, What's your preferred contact method? Feel free to reach us by emailing exampleHelp@program.com. ," To ensure smooth communication, please email your contact information to exampleHelp@program.com."
+ask_contact_info, Could you share your contact details with us? Please email exampleHelp@program.com. ," To stay connected, please send your contact information to exampleHelp@program.com."
+ask_contact_info, How can we get in touch with you? Feel free to email your contact information to exampleHelp@program.com. ," To reach you promptly, please email exampleHelp@program.com with your details."
+ask_contact_info, What's the best way to reach you? You can send your contact information to exampleHelp@program.com. ," To stay connected, please email your contact details to exampleHelp@program.com."
+ask_contact_info, May we have your contact details? Feel free to email exampleHelp@program.com. ," For effective communication, please send your contact information to exampleHelp@program.com."
+ask_contact_info, How should we contact you? You can email your details to exampleHelp@program.com. ," To ensure effective communication, please send your contact information to exampleHelp@program.com."
+ask_contact_info, What's your contact information? Feel free to reach us by emailing exampleHelp@program.com. ," To keep in touch, please email your contact details to exampleHelp@program.com."
+ask_contact_info, Can you provide your contact details? Just email exampleHelp@program.com. ," To communicate effectively, please send your contact information to exampleHelp@program.com."
+ask_contact_info, How can we reach out to you? You can email your contact information to exampleHelp@program.com. ," To stay connected, please email exampleHelp@program.com with your details."
+ask_contact_info, May I have your contact information? Please email exampleHelp@program.com. ," To ensure prompt communication, please send your contact information to exampleHelp@program.com."
+ask_contact_info, What's your preferred contact method? Feel free to reach us by emailing exampleHelp@program.com. ," To ensure smooth communication, please email your contact details to exampleHelp@program.com."
+ask_contact_info, Could you share your contact details with us? You can send them to exampleHelp@program.com. ," To stay connected, please send your contact information to exampleHelp@program.com."
+ask_contact_info, How can we get in touch with you? Just email your contact information to exampleHelp@program.com. ," To reach you promptly, please email exampleHelp@program.com with your details."
